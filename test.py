@@ -6,4 +6,4 @@ num2 = float(input("Enter second number: "))
 sum = num1 + num2
 
 # Print the result
-print( sum)
+print(sum)
